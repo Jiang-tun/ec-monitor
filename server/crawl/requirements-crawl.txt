@@ -1,0 +1,15 @@
+﻿
+cssselect==1.6.0
+itemadapter==0.13.1
+itemloaders==1.5.0
+parsel==1.12.1
+playwright==1.64.1
+playwright-stealth==2.0.3
+queuelib==1.10.0
+Scrapy==2.19.0
+scrapy-playwright==0.0.48
+scrapy-redis==0.9.1
+Twisted==26.4.0
+w3lib==2.5.0
+
+
